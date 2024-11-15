@@ -1,0 +1,133 @@
+&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+
+&lt;head&gt;
+    &lt;meta charset="UTF-8" /&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0" /&gt;
+    &lt;title&gt;Seal World&lt;/title&gt;
+    &lt;link rel="preconnect" href="https://fonts.googleapis.com" /&gt;
+    &lt;link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /&gt;
+    &lt;link href="https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400&amp;display=swap" rel="stylesheet" /&gt;
+    &lt;link rel="stylesheet" href="/projetoPratico/style.css"&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+    &lt;main&gt;
+        &lt;section class="hero"&gt;
+            &lt;video class="hero__background" autoplay muted loop&gt;
+                &lt;source src="video/pexels-zlatin-georgiev-5607740_2160p.mp4" type="video/mp4" /&gt;
+            &lt;/video&gt;
+            &lt;div class="hero__foreground"&gt;
+                &lt;h1 class="hero__title"&gt;Get Ready to Seal-abrate!&lt;/h1&gt;
+                &lt;p class="hero__text"&gt;
+                    Dive in and Discover the Charm of These Aquatic Wonders
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/section&gt;
+
+        &lt;section class="section"&gt;
+            &lt;h2 class="section__title"&gt;Exploring the World of Seals&lt;/h2&gt;
+            &lt;img class="section__img" src="img/pexels-minsu-b-11932453.jpg" alt="" /&gt;
+            &lt;p class="section__text"&gt;
+                Hold onto your flippers, because we're about to embark on a journey
+                into the lives of seals! These adorable aquatic mammals are real stars
+                of the ocean, and they've got some seal-iously cool tales to tell.
+                From Arctic cold to sunny shores, seals have mastered the art of
+                enjoying life both above and below the waves. Let's splash into the
+                deep waters of seal knowledge!
+            &lt;/p&gt;
+        &lt;/section&gt;
+
+        &lt;section class="section"&gt;
+            &lt;h2 class="section__title"&gt;Style and Moves&lt;/h2&gt;
+            &lt;img class="section__img-inline" src="img/pexels-sabine-freiberger-16788877.jpg" alt="" /&gt;
+            &lt;div class="section__text-inline"&gt;
+                &lt;p&gt;
+                    Seals are known for their elegant swimming skills, often rivalling
+                    those of top-tier Olympic swimmers. Their flippers, akin to
+                    well-trained athletes, effortlessly guide them through water with a
+                    mesmerizing grace.
+                &lt;/p&gt;
+                &lt;p&gt;
+                    A fascinating aspect is their natural insulation: layers of blubber.
+                    This built-in warmth mechanism allows them to thrive in various
+                    water temperatures. Picture these creatures gliding beneath the
+                    water's surface – a seamless dance with currents, their streamlined
+                    bodies moving with fluidity and elegance. It's a testament to
+                    nature's adaptability and the awe-inspiring beauty of aquatic life.
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/section&gt;
+
+        &lt;section id="hangouts" class="section"&gt;
+            &lt;h2 class="section__title"&gt;Seal Hangouts&lt;/h2&gt;
+            &lt;img class="section__img" src="img/pexels-diana-4445229.jpg" alt="" /&gt;
+            &lt;p class="section__text"&gt;
+                Guess where you can find these fantastic creatures? From the icy polar
+                plunge zones to the sunny coastal chill spots, seals know how to pick
+                their pads. They love lounging on rocky shores, showing off their
+                sun-kissed fur, and occasionally doing the cha-cha-slide into the
+                water.
+            &lt;/p&gt;
+        &lt;/section&gt;
+
+        &lt;section class="section"&gt;
+            &lt;h2 class="section__title"&gt;Meet the Seal Crew&lt;/h2&gt;
+            &lt;div class="gallery"&gt;
+                &lt;span class="gallery__img-wrapper"&gt;
+                    &lt;img class="gallery__img" src="img/harbor_seal.jpg" alt="" /&gt;
+                &lt;/span&gt;
+                &lt;span class="gallery__img-wrapper"&gt;
+                    &lt;img class="gallery__img" src="img/grey_seal.jpg" alt="" /&gt;
+                &lt;/span&gt;
+                &lt;span class="gallery__img-wrapper"&gt;
+                    &lt;img class="gallery__img" src="img/elephant_seal.jpg" alt="" /&gt;
+                &lt;/span&gt;
+                &lt;span class="gallery__img-wrapper"&gt;
+                    &lt;img class="gallery__img" src="img/leopard_seal.jpg" alt="" /&gt;
+                &lt;/span&gt;
+            &lt;/div&gt;
+            &lt;p class="section__text"&gt;
+                Meet the VIPs (Very Important Pinnipeds)! We've got the harbor seal,
+                the grey seal, the elephant seal (yep, the one with the hilarious
+                schnoz), and the fierce leopard seal. It's like a star-studded cast of
+                the ocean! Each has their own quirks and skills, making them the true
+                icons of the underwater red carpet.
+            &lt;/p&gt;
+        &lt;/section&gt;
+
+        &lt;section class="section"&gt;
+            &lt;h2 class="section__title"&gt;Cool Facts About Seals&lt;/h2&gt;
+            &lt;img class="section__img-inline" src="img/pexels-daniel-lee-3187036.jpg" alt="" /&gt;
+            &lt;div class="section__text-inline"&gt;
+                &lt;p&gt;
+                    Dive into the world of seals, those charming sea creatures with a
+                    flair for the extraordinary. From holding their breath like
+                    underwater champs to using their whiskers for underwater GPS, these
+                    marine wonders are quite the showstoppers.
+                &lt;/p&gt;
+                &lt;p&gt;
+                    Seals rock the art of breath-holding, making any professional diver
+                    green with envy. And those whiskers? They're like nature's very own
+                    GPS, guiding these underwater explorers through their aquatic
+                    escapades.
+                &lt;/p&gt;
+                &lt;p&gt;
+                    For a deeper dive into seal awesomeness, visit
+                    &lt;a href="#"&gt;sealworld.com&lt;/a&gt;
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/section&gt;
+    &lt;/main&gt;
+
+    &lt;footer class="footer"&gt;
+        Made with
+        &lt;svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="#f64348" stroke="#f64348" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"&gt;
+            &lt;path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"&gt;&lt;/path&gt;
+        &lt;/svg&gt;
+        by
+        &lt;a href="#" target="_blank"&gt;@IuriPrestes&lt;/a&gt;
+    &lt;/footer&gt;
+&lt;/body&gt;
+
+&lt;/html&gt;
